@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Account;
+import model.entities.Account;
 
 public class Program {
 
